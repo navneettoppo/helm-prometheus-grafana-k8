@@ -1,4 +1,4 @@
-# helm-prometheus-grafana-Otelk8
+# helm-prometheus-grafana-Otel-k8
 
 #Prometheus Installation using helm-charts
 ```
